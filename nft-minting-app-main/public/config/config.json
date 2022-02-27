@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0dcB8d061847dCA831Ab003885a8027e44184B72",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0dcb8d061847dca831ab003885a8027e44184b72",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Cribs",
+  "SYMBOL": "Pixel Crib",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixel-cribs",
+  "SHOW_BACKGROUND": true
+}
